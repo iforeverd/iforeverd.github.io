@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b0aaff;
+  background: #41a434;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2290,7 +2290,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("https://desk-fd.zol-img.com.cn/t_s1920x1080c5/g5/M00/06/02/ChMkJlbEONyIT9V9AAOBx6LUWuQAAKXYAOLT4AAA4Hf210.jpg");
+  background: url("");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
